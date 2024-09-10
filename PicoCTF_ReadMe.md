@@ -12,9 +12,9 @@ This Repo is created to:
 It is organised by categories instead of year, since I like to treat them as a subject and focus on the subject 1 by 1 instead of the year they came out.
 
 ## Categories
-- [Web Exploitation](picoCTF_2024/README.md)
-- [Cryptography](picoCTF_2023/README.md)
-- [Reverse Engineering](picoCTF_2022/README.md)
-- [Forensics](Beginner_picoMini_2022/README.md)
-- [General Skills](picoMini_by_redpwn/README.md)
-- [Binary Exploitation](picoCTF_2021/README.md)
+- [Web Exploitation](Web_Exploitation/Web_Exploitation_ReadMe.md)
+- [Cryptography](Cryptography/Crypto_ReadMe.md)
+- [Reverse Engineering](Reverse_Engineering/RE_ReadMe.md)
+- [Forensics](Forensics/Forensics_ReadMe.md)
+- [General Skills](General_Skills/General_Skills_ReadMe.md)
+- [Binary Exploitation](Binary_Exploitation/BE_ReadMe.md)
