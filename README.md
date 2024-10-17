@@ -12,7 +12,7 @@ This Repo is created to:
 It is organised by categories instead of year, since I like to treat them as a subject and focus on the subject 1 by 1 instead of the year they came out.
 
 ## Categories
-- [Web Exploitation](Web_Exploitation/Web_Exploitation_ReadMe.md)
+- [Web Exploitation](Web_Exploitation)
 - [Cryptography](Cryptography/Crypto_ReadMe.md)
 - [Reverse Engineering](Reverse_Engineering/RE_ReadMe.md)
 - [Forensics](Forensics/Forensics_ReadMe.md)
