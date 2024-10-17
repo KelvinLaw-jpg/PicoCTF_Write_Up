@@ -5,9 +5,9 @@
 Welcome to my [picoCTF](https://picoctf.org/) Journey.
 This Repo is created to:
 
-* Document for my Journey as a Hacker
+* Document for my Journey to become an IT professional
 * Provide a personal view on solving the challenges
-* Be a concrete project to improve my skills in Reverse Engineering, Cryptography, github, etc.
+* Be a concrete project to improve my skills in IT
 
 It is organised by categories instead of year, since I like to treat them as a subject and focus on the subject 1 by 1 instead of the year they came out.
 
