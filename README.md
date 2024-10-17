@@ -13,11 +13,11 @@ It is organised by categories instead of year, since I like to treat them as a s
 
 ## Categories
 - [Web Exploitation](Web_Exploitation)
-- [Cryptography](Cryptography/Crypto_ReadMe.md)
-- [Reverse Engineering](Reverse_Engineering/RE_ReadMe.md)
-- [Forensics](Forensics/Forensics_ReadMe.md)
-- [General Skills](General_Skills/General_Skills_ReadMe.md)
-- [Binary Exploitation](Binary_Exploitation/BE_ReadMe.md)
+- [Cryptography](Cryptography)
+- [Reverse Engineering](Reverse_Engineering)
+- [Forensics](Forensics)
+- [General Skills](General_Skills)
+- [Binary Exploitation](Binary_Exploitation)
 
 ## Spoilers Alert
 The solutions contains step-by-step walkthroughs and might show the flags in plain text.  
