@@ -15,7 +15,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/414](https://play.p
 The challenge is to teach use little and big endianness, basically how different systems will store data in different order. For example,
 all x86 uses little endianness.
 
-So with the downloaded script, it asks us to give both the little and big endianness of the string `cqfqv`
+So with the downloaded executable, it asks us to give both the little and big endianness of the string `cqfqv`
 
 To get the endianness, we will first convert it to Hex representation through the ASCII Table
 
