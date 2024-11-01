@@ -23,39 +23,43 @@ Binary Number 1: 00001111
 Binary Number 2: 10100000
 ```
 
-+ operator
+`+` operator
 ```
 Operation 1: '+'
 Perform the operation on Binary Number 1&2.
 Enter the binary result: 10101111
 ```
 Just add them up
+
 ---
-<< operator  
+`<<` operator  
 ```
 Operation 2: '<<'
 Perform a left shift of Binary Number 1 by 1 bits.
 Enter the binary result: 000011110
 ```
 Left Shift is to add the whole binary to the left and add a 0 at the right (without dropping the Most Significant Bit MSB)
+
 ---
-& operator
+`&` operator
 ```
 Operation 3: '&'
 Perform the operation on Binary Number 1&2.
 Enter the binary result: 00000000
 ```
 only keep it yes(1) when both is yes(1)
+
 ---
-| operator
+`|` operator
 ```
 Operation 4: '|'
 Perform the operation on Binary Number 1&2.
 Enter the binary result: 10101111
 ```
 If 1 person say yes(1) then yes(1)
+
 ---
->> operator
+`>>` operator
 ```
 Operation 5: '>>'
 Perform a right shift of Binary Number 2 by 1 bits .
