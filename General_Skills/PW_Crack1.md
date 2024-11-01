@@ -45,4 +45,4 @@ def level_1_pw_check():
 level_1_pw_check()
 ```
 
-therefore when executed, it will ask you input a password. The password is hardcored into the code which is the worst practice. 
+When executed, it will ask you input a password. The password is hardcored into the code which is the worst practice. 
