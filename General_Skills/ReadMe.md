@@ -9,6 +9,8 @@ General Skills in Hacking
 
 [Endianness](Endianness.md)
 
+---
+
 ### Git Related
 
 [Time Machine](Time_Machine.md)
