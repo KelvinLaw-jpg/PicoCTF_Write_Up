@@ -19,6 +19,8 @@ General Skills in Hacking
 
 [Blame Game](Blame_Game.md)
 
+---
+
 [Binhexa](Binhexa.md)
 
 [Repetitions](Repetitions.md)
