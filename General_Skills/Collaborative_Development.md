@@ -50,3 +50,9 @@ print("picoCTF{t3@mw0rk_", end='')
 
 Ok, so part 1 of the flat is here. Lets merge them to the main branch.
 
+1. Go back to Main by using `git checkout main`
+2. `git merge feature/part-1`, go into the py file and solve the conflict, and commit it using `git commit -am "put your own update comments here"
+3. `git merge feature/part-2`, go into the py file and solve the conflict, and commit it using `git commit -am "put your own update comments here"
+4. `git merge feature/part-3`, go into the py file and solve the conflict, and commit it using `git commit -am "put your own update comments here"
+5. Alternatively you can `git merge feature/part-1 feature/part-2 feature/part-3 --no-ff` to merge all 3 at once and solve the conflict
+
