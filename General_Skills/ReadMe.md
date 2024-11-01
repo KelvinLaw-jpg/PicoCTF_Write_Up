@@ -31,8 +31,6 @@ General Skills in Hacking
 
 [First Find](First_Find.md)
 
-[Runme](Runme.md)
-
 [PW Crack1](PW_Crack1.md)
 
 [PW Crack2](PW_Crack2.md)
