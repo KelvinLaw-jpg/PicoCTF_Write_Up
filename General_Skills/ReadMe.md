@@ -1,15 +1,17 @@
-## General Skills
+# General Skills
 General Skills in Hacking 
 
-### Easy
+## Easy
 
 [Binary Search](Binary_Search.md)
-
-[Time Machine](Time_Machine.md)
 
 [Super SSH](Super_SSH.md)
 
 [Endianness](Endianness.md)
+
+### Git Related
+
+[Time Machine](Time_Machine.md)
 
 [Commitment Issues](Commitment_Issues.md)
 
