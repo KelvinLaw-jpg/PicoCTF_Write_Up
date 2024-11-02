@@ -41,7 +41,7 @@ General Skills in Hacking
 
 [Static ain't always noise](Static_aint_always_noise.md)
 
-[Nice Netcat](Nice_Netcat.md)
+[Nice Netcat](Nice_netcat.md)
 
 [Obedient Cat](Obedient_Cat.md)
 
