@@ -43,11 +43,5 @@ General Skills in Hacking
 
 [Nice Netcat](Nice_netcat.md)
 
-[Obedient Cat](Obedient_Cat.md)
-
-[Bases](Bases.md)
-
-[Strings it](Strings_it.md)
-
 
 ### Medium
