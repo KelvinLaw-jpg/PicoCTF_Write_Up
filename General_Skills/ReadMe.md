@@ -39,22 +39,6 @@ General Skills in Hacking
 
 [Glitch Cat](Glitch_Cat.md)
 
-[fixme1.py](fixme1py.md)
-
-[fixme2.py](fixme2py.md)
-
-[convertme.py](covertmepy.md)
-
-[Codebook](Codebook.md)
-
-[Magikarp Ground Mission](Magikarp_Ground_Mission.md)
-
-[Tab, Tab, Attack](TabTabAttack.md)
-
-[Wave a flag](Wave_a_flag.md)
-
-[Python Wrangling](Python_Wrangling.md)
-
 [Static ain't always noise](Static_aint_always_noise.md)
 
 [Nice Netcat](Nice_Netcat.md)
