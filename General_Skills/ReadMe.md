@@ -45,18 +45,9 @@ General Skills in Hacking
 
 [Obedient Cat](Obedient_Cat.md)
 
-[2Warm](2Warm.md)
-
-[First Grep](First_Grep)
-
 [Bases](Bases.md)
-
-[Warmed Up](Warmed_Up.md)
 
 [Strings it](Strings_it.md)
 
-[What's a net cat](Whats_a_net_cat)
-
-[Lets Warm Up](Lets_Warm_Up.md)
 
 ### Medium
