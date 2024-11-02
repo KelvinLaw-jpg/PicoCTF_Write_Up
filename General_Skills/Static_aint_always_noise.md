@@ -59,6 +59,6 @@ Reading through it, it is trying to teach us objdump without using objdump so le
 After dumping there are 2 .txt, one is all the strings and one with the assembly of the .text session. Just grep "pico" and you will find the flag
 
 ---
-Alternatively, doing it manually is also possible, there is a neat little tool call `strings` which we can use (also within the shell script)
+Alternatively, we can do it manually, there is a neat little tool call `strings` which we can use (also within the shell script)
 
 Just type `strings static` and it will show all the strings in this binary. to show strings with `objdumb`, we can also use `objdumb -s static`, and pipe it to grep "pico"
